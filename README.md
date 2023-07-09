@@ -1,3 +1,3 @@
 # chum
 
-![icon](/icon.png width = "300" height = "200")
+![icon](/icon.png){:height="100px" width="400px"}

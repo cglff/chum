@@ -1,3 +1,3 @@
 # chum
 
-![icon](/icon.png =100x100)
+![icon](/icon.png width = "300" height = "200")

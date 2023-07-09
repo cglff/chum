@@ -1,3 +1,3 @@
 # chum
 
-![alt text](/icon.png)
+![icon](/icon.png)
